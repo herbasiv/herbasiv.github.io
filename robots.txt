@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://herbasiv.github.io/sitemap.html.gz
+Sitemap: https://herbasiv.github.io/app/sitemap.html.gz
+Sitemap: https://herbasiv.github.io/assets/sitemap.html.gz
+Sitemap: https://herbasiv.github.io/css/sitemap.html.gz
+Sitemap: https://herbasiv.github.io/includes/sitemap.html.gz
+Sitemap: https://herbasiv.github.io/item/sitemap.html.gz
+Sitemap: https://herbasiv.github.io/src/sitemap.html.gz
